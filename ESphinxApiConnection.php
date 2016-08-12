@@ -1,5 +1,7 @@
 <?php
 
+require_once dirname(__FILE__) . 'sphinxapi-2.2.11.php';
+
 /**
  * Standart connection to sphinx daemon
  *
