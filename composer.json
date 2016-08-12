@@ -1,5 +1,5 @@
 {
-    "name": "sergebezborodov/sphinx-yii",
+    "name": "maxodrom/sphinx-yii",
     "description": "Extension for work with Sphinx Search.",
     "version": "1.0.0-beta",
     "type": "library",
@@ -12,6 +12,11 @@
         {
             "name": "Alex Sharov",
             "email": "www.pismeco@gmail.com",
+            "role": "Contributor"
+        },
+        {
+            "name": "Max",
+            "email": "user@example.com",
             "role": "Contributor"
         }
     ],
